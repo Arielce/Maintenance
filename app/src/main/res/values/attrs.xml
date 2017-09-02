@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchRoomView">
+        <attr name="switch_cabinet_start" format="reference" />
+        <attr name="switch_cabinet_stop" format="reference" />
+        <attr name="switch_cabinet_temp_stop" format="reference" />
+        <attr name="switch_cabinet_data_complete" format="reference" />
+        <attr name="overview_start" format="color" />
+        <attr name="overview_stop" format="color" />
+        <attr name="overview_temp_stop" format="color" />
+        <attr name="overview_data_complete" format="color" />
+        <attr name="txt_color" format="color"/>
+    </declare-styleable>
+
+</resources>

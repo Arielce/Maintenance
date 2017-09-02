@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00897b</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorPrimaryTrans">#a0009688</color>
+    <color name="colorBlackTrans">#a0000000</color>
+    <color name="colorPrimarySmall">#80cbc4</color>
+    <color name="colorPrimaryTransparent">#80009688</color>
+    <color name="colorPrimaryTransparentDark">#99009688</color>
+    <color name="transparent_background">#e5ffffff</color>
+    <color name="bg_gray">#d6d9de</color>
+    <color name="mid_gray">#999999</color>
+    <color name="gray_font">#797979</color>
+    <color name="small_gray">#b8b8b8</color>
+    <color name="smaller_gray">#eeeeee</color>
+    <color name="transparent_half">#20000000</color>
+    <color name="main_tab_selected">@color/md_blue_grey_800</color>
+    <color name="main_tab_unselected">#ccc</color>
+    <color name="material_yellow">#f9bb72</color>
+    <color name="material_yellow_press">#80f9bb72</color>
+    <color name="material_blue">#76afcf</color>
+    <color name="material_blue_press">#8076afcf</color>
+    <color name="material_violet">#9c27b0</color>
+    <color name="material_violet_press">#809c27b0</color>
+    <color name="item_title">#000000</color>
+    <color name="item_desc">#49494957</color>
+</resources>

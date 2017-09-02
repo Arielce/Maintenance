@@ -1,0 +1,81 @@
+<resources>
+    <!--启动界面-->
+    <string name="app_name">变电运维检修</string>
+    <string name="app_site">STATE.GRID</string>
+    <string name="app_site_des">变电运维检修标准作业流程</string>
+    <string name="app_desc">Team Intelligent Mobile Operation</string>
+    <string name="splash_version">V %1$s</string>
+    <string name="splash_copyright">Copyright &#169; 2016 All Rights IT综合\nPowered by 普迅电力信息技术有限公司</string>
+    <!--登录界面-->
+    <string name="login_ex">登录异常</string>
+    <string name="wait_after">请稍候重试..</string>
+    <string name="known">知道了</string>
+    <string name="user_null">未获取到用户信息</string>
+    <string name="username">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="display_pwd">显示密码</string>
+    <string name="login">登录</string>
+
+    <!--主界面-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="msg_center">消息中心</string>
+    <string name="personal_center">个人中心</string>
+    <string name="exit_cancel">注销退出</string>
+    <string name="copyright">Copyright &#169; 2016 普迅电力信息移动研发团队</string>
+    <string name="morning_hello">早上好！</string>
+    <string name="afternoon_hello">下午好！</string>
+    <string name="night_hello">晚上好！</string>
+    <string name="exit_app">退出当前登录</string>
+    <string name="exit_app_des">一旦退出，将清除所有个人信息，是否继续？</string>
+    <string name="continue_exit">继续</string>
+    <string name="workorder_manager">工单管理</string>
+
+    <!--个人中心-->
+    <string name="get_photo">请选择您获取头像照片的方式</string>
+    <string name="by_take">实时拍摄</string>
+    <string name="by_photos">从相册中选择</string>
+    <string name="chanage_success">修改成功</string>
+    <string name="change">修改</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+
+    <!--信息中心-->
+    <string name="msg">信息中心</string>
+
+    <string-array name="msg_types">
+        <item>Android</item>
+        <item>拓展资源</item>
+        <item>前端</item>
+        <item>瞎推荐</item>
+        <item>休息视频</item>
+    </string-array>
+
+    <!--工单-->
+    <string-array name="work_types">
+        <item>未完成</item>
+        <item>已完成</item>
+        <item>已确认</item>
+    </string-array>
+    <string name="planned_labor_list">计划派工列表</string>
+    <string name="send_workorder">派发工单</string>
+    <string name="appoint_substation">指定变电站</string>
+    <string name="appoint_task">指定任务</string>
+    <string name="appoint_ruler">指定负责人</string>
+    <string name="appoint_members">指定工作成员</string>
+    <string name="appoint_date">指定工作日期</string>
+    <string name="send_work_order">派发工单</string>
+    <string name="work_order_detail">工单详情</string>
+    <string-array name="doc_types">
+        <item>职责</item>
+        <item>流程</item>
+        <item>制度</item>
+        <item>标准</item>
+        <item>考核</item>
+    </string-array>
+
+    <string name="prepare_procedure">准备工序</string>
+    <string name="field_work_procedure">现场工序</string>
+    <string name="summary_work_procedure">总结工序</string>
+    <string name="guidance_doc">指导文档</string>
+</resources>
